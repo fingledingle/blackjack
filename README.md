@@ -1,6 +1,7 @@
 
-![alt text](image.png)
-
+<div align="center">
+  <img src="./image.png" alt="logo">
+</div>
 
 
 ## Introduction
